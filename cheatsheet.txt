@@ -1,0 +1,6 @@
+<li>Juventus di Syncalysta 🇮🇹</li>
+
+<li>
+    <img src="https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1601806062/etpgnpgouvjn9vo2obu9.jpg" alt="">
+    <p>Alex</p>
+</li>
