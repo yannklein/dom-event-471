@@ -6,6 +6,10 @@
   "repository": "https://github.com/lewagon/webpack-boilerplate",
   "author": "ssaunier",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+  },
   "devDependencies": {
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
