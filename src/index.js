@@ -1,4 +1,4 @@
-console.log("Hello from src/index.js!");
+// console.log("Hello from src/index.js!");
 
 
 // ////////
@@ -20,7 +20,7 @@ const group = document.querySelector(".group");
 // select multiple elements (all the card)
 // const card = document.querySelector(".card"); // select the first card
 const cards = document.querySelectorAll(".card");
-console.log(cards[1]);
+// console.log(cards[1]);
 
 // ////////
 // Modify the DOM
